@@ -1,0 +1,20 @@
+<html>
+<head>
+<body>
+<h1>Heading1</h1>
+<p> are you happy  now ? yes, I am happy</p> 
+h1{
+color: purple;
+text-align: centre;
+text-width:20%;
+font-size: 40px
+}
+p{
+color: blue;
+text-align: centre;
+text-width:20%;
+font-size: 20px
+}
+</body>
+<head>
+</html>
